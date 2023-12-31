@@ -1,3 +1,6 @@
 inital input 
 1st commit 
 2nd commit
+learning about taggin. they are about two types
+annotated tag
+lightweight tag
